@@ -448,7 +448,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "yfs"
+    ]
   },
   "meta": {
     "filename": "rear_distribution.kicad_pro",
@@ -635,81 +637,27 @@
       "Divider"
     ],
     [
-      "959c01d5-0b2e-4eb4-80fe-2b7efd44a17f",
+      "010a91b4-d570-4701-8f82-257b9f40c4fc",
       "Divider1"
     ],
     [
-      "ee84b38b-e46d-4253-854b-9d92cefa78e8",
+      "f9195b01-e564-4cb3-9d3d-bb998dddd574",
       "Divider2"
     ],
     [
-      "70496b93-8beb-4092-8093-83401fe4d9cf",
+      "95a6bef4-8501-44cc-b21b-7ddf3b97e37a",
       "Divider3"
     ],
     [
-      "8470f9d1-930f-4c68-8bd2-8375da071013",
+      "c71d5a16-8ff3-47fd-8809-f0c518346052",
       "Divider4"
     ],
     [
-      "9e0c43c0-bc1f-40e7-9b60-ff23d3ebacf3",
+      "7b4c8936-a39b-45f9-86af-2e1af62e4938",
       "Divider5"
-    ],
-    [
-      "2abf2fd9-26b0-42ed-8678-b2cdde7e3fca",
-      "Divider6"
-    ],
-    [
-      "a383c79f-41a3-4fb9-b341-b09e2888bec9",
-      "Divider7"
-    ],
-    [
-      "9bcbfc98-3e3d-4a5e-a413-7fc409a11fbc",
-      "Divider8"
-    ],
-    [
-      "26f5e257-1f3d-4f1b-a5b0-139e26b676e0",
-      "Divider9"
-    ],
-    [
-      "48d06fbd-a7bf-48c8-8357-822703442ee8",
-      "Divider10"
-    ],
-    [
-      "dba0769e-1efd-47b6-8a5f-ebd0c4deab24",
-      "Divider11"
-    ],
-    [
-      "dece8c48-ad9f-452d-961c-f858c779258a",
-      "Divider12"
-    ],
-    [
-      "25d65986-0be7-4f5a-ad3d-04fa54959284",
-      "Divider13"
-    ],
-    [
-      "d4ff3460-00e2-4b67-b6be-cea1ea903fe3",
-      "Divider14"
-    ],
-    [
-      "33c74397-9ed9-47f4-b407-f39c202e859a",
-      "Divider15"
-    ],
-    [
-      "650d24ed-21e5-4b58-bd1b-c7dce465c5ba",
-      "Divider16"
-    ],
-    [
-      "78343d48-0428-42ed-a1aa-d070c22633f0",
-      "Divider17"
-    ],
-    [
-      "99a0cf72-4f40-4e0c-9f84-7627c598adb2",
-      "Divider18"
-    ],
-    [
-      "c6517f03-c2ec-477d-9074-1b09a179c645",
-      "Divider19"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "REVISION": "A"
+  }
 }
