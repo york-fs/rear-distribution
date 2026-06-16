@@ -881,7 +881,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x1206"
 			(at 99.695 43.18 90)
 			(effects
 				(font
@@ -986,7 +986,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x1206"
 			(at 95.25 41.275 90)
 			(effects
 				(font
