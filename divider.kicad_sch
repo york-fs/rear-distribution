@@ -863,7 +863,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2527b466-ccd0-42fc-b305-7365bfb2fcac")
-		(property "Reference" "RN"
+		(property "Reference" "RN2"
 			(at 114.3 41.9099 0)
 			(effects
 				(font
@@ -938,6 +938,10 @@
 					(reference "RN4")
 					(unit 1)
 				)
+				(path "/f2809c69-a8f9-4542-bde7-ba954770c514/63292095-4e17-4494-84a6-c656f1d2ccc4"
+					(reference "RN2")
+					(unit 1)
+				)
 				(path "/f2809c69-a8f9-4542-bde7-ba954770c514/7b4c8936-a39b-45f9-86af-2e1af62e4938"
 					(reference "RN12")
 					(unit 1)
@@ -966,7 +970,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "79f4fb03-6bb1-4426-9728-824f13f9a7a5")
-		(property "Reference" "RN"
+		(property "Reference" "RN1"
 			(at 95.25 22.86 90)
 			(effects
 				(font
@@ -1039,6 +1043,10 @@
 					(reference "RN3")
 					(unit 1)
 				)
+				(path "/f2809c69-a8f9-4542-bde7-ba954770c514/63292095-4e17-4494-84a6-c656f1d2ccc4"
+					(reference "RN1")
+					(unit 1)
+				)
 				(path "/f2809c69-a8f9-4542-bde7-ba954770c514/7b4c8936-a39b-45f9-86af-2e1af62e4938"
 					(reference "RN11")
 					(unit 1)
@@ -1068,7 +1076,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "986c89c0-e079-4998-9a6d-5ed8c3c1fdb0")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR0181"
 			(at 104.14 57.15 0)
 			(effects
 				(font
@@ -1119,27 +1127,27 @@
 		(instances
 			(project "rear_distribution"
 				(path "/f2809c69-a8f9-4542-bde7-ba954770c514/010a91b4-d570-4701-8f82-257b9f40c4fc"
-					(reference "#PWR050")
+					(reference "#PWR0182")
 					(unit 1)
 				)
 				(path "/f2809c69-a8f9-4542-bde7-ba954770c514/63292095-4e17-4494-84a6-c656f1d2ccc4"
-					(reference "#PWR051")
+					(reference "#PWR0181")
 					(unit 1)
 				)
 				(path "/f2809c69-a8f9-4542-bde7-ba954770c514/7b4c8936-a39b-45f9-86af-2e1af62e4938"
-					(reference "#PWR055")
+					(reference "#PWR0186")
 					(unit 1)
 				)
 				(path "/f2809c69-a8f9-4542-bde7-ba954770c514/95a6bef4-8501-44cc-b21b-7ddf3b97e37a"
-					(reference "#PWR053")
+					(reference "#PWR0184")
 					(unit 1)
 				)
 				(path "/f2809c69-a8f9-4542-bde7-ba954770c514/c71d5a16-8ff3-47fd-8809-f0c518346052"
-					(reference "#PWR054")
+					(reference "#PWR0185")
 					(unit 1)
 				)
 				(path "/f2809c69-a8f9-4542-bde7-ba954770c514/f9195b01-e564-4cb3-9d3d-bb998dddd574"
-					(reference "#PWR052")
+					(reference "#PWR0183")
 					(unit 1)
 				)
 			)
