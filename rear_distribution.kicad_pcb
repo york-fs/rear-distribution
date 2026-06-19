@@ -7239,7 +7239,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "6a9622b9-5b00-4fec-b9c5-d71aadf4e46a")
+			(uuid "effd5c00-628d-4eba-a1fa-0b96571e5faa")
 			(effects
 				(font
 					(size 1 1)
@@ -7251,7 +7251,7 @@
 			(at -13.999998 -16.549886 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "368917ff-5a90-4a4d-8419-1447a013ffab")
+			(uuid "9774e690-7313-4d15-9938-2b799f14e32b")
 			(effects
 				(font
 					(size 1 1)
@@ -7263,7 +7263,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "900194ef-dc92-4796-83ae-a586c3299a90")
+			(uuid "ab07d554-7832-443d-856f-dc8494cfee89")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7275,7 +7275,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eac90018-b343-4678-88e8-0f1e40609a73")
+			(uuid "1e5f562b-dee4-4ec8-8f46-580d8e532238")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13036,7 +13036,7 @@
 		(descr "Chip Resistor Network, ROHM MNR34 (see mnr_g.pdf)")
 		(tags "resistor array")
 		(property "Reference" "RN6"
-			(at 0 -3.5 180)
+			(at 0 0 270)
 			(layer "F.SilkS")
 			(uuid "7879cf98-ae19-4f3a-9f3b-a2704ecc08ad")
 			(effects
