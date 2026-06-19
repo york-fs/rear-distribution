@@ -16834,6 +16834,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mfr" "Molex"
+			(at 54.61 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr #" "2125280600"
+			(at 54.61 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "8276ec13-4d2c-4c73-a5ce-9dfda2f0daf6")
 		)
@@ -16975,6 +16993,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 236.22 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr" "Molex"
+			(at 236.22 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr #" "472192001"
 			(at 236.22 39.37 0)
 			(effects
 				(font
