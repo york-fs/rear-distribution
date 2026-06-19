@@ -18008,7 +18008,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d445b513-6682-4bac-a05e-c1302d46a6f9")
-		(property "Reference" "TP6"
+		(property "Reference" "TP1"
 			(at 241.935 123.825 0)
 			(effects
 				(font
@@ -18105,7 +18105,7 @@
 		(instances
 			(project "rear_distribution"
 				(path "/f2809c69-a8f9-4542-bde7-ba954770c514"
-					(reference "TP6")
+					(reference "TP1")
 					(unit 1)
 				)
 			)
