@@ -58,7 +58,56 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "silk_edge_clearance|119530802|50000000|5b8c76ff-58da-4533-acb4-d87bf1d39774|f2926432-80e8-48f0-9d59-48b50cb583ed",
+          ""
+        ],
+        [
+          "silk_edge_clearance|124669200|50000000|5b8c76ff-58da-4533-acb4-d87bf1d39774|66528a6f-381b-405e-af85-386c5ea8618e",
+          ""
+        ],
+        [
+          "silk_edge_clearance|173582600|150000000|14afa882-e687-48bf-99fd-b5a1976868b0|b6850bd9-1c5e-48b2-8906-b4db96c02537",
+          ""
+        ],
+        [
+          "silk_edge_clearance|178469198|150000000|14afa882-e687-48bf-99fd-b5a1976868b0|c733d2aa-d703-4a6f-9cb4-067bfe7c26a7",
+          ""
+        ],
+        [
+          "silk_edge_clearance|185730800|50000000|5b8c76ff-58da-4533-acb4-d87bf1d39774|794517ba-2f77-444f-a66c-0a41da0fe734",
+          ""
+        ],
+        [
+          "silk_edge_clearance|190476800|50000000|5b8c76ff-58da-4533-acb4-d87bf1d39774|f9d2c20d-28c9-4798-8cf3-54041febc760",
+          ""
+        ],
+        [
+          "silk_edge_clearance|231523200|50000000|e9549381-a9dc-439a-b797-5b9678a99451|dc47fd59-ac25-4fc3-b471-b9b8b1fe9bfb",
+          ""
+        ],
+        [
+          "silk_edge_clearance|239530798|150000000|14afa882-e687-48bf-99fd-b5a1976868b0|3fc9e3b7-4d21-4ec5-b66e-b79b8aa40e65",
+          ""
+        ],
+        [
+          "silk_edge_clearance|50476800|150000000|14afa882-e687-48bf-99fd-b5a1976868b0|fa4a3195-18b8-4e69-b276-dba1cdc2226c",
+          ""
+        ],
+        [
+          "silk_edge_clearance|58469202|50000000|5b8c76ff-58da-4533-acb4-d87bf1d39774|c81dedd6-c171-4d31-b9e0-736a58d12c33",
+          ""
+        ],
+        [
+          "silk_edge_clearance|91523200|150000000|14afa882-e687-48bf-99fd-b5a1976868b0|2873961e-5f96-4ca4-82b6-dd950e555db1",
+          ""
+        ],
+        [
+          "silk_edge_clearance|96417400|150000000|14afa882-e687-48bf-99fd-b5a1976868b0|c113320e-885d-4a3c-80a7-5760ec756d31",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -882,6 +931,7 @@
     ]
   ],
   "text_variables": {
+    "PCB_DATE": "JUN 2026",
     "REVISION": "A"
   }
 }
