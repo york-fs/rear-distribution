@@ -11,6 +11,7 @@
 		(title "Rear Distribution")
 		(rev "${REVISION}")
 		(company "York Formula Student")
+		(comment 4 "AISLER Project ID: NVUHJRGF")
 	)
 	(layers
 		(0 "F.Cu" signal)
@@ -30,9 +31,6 @@
 		(stackup
 			(layer "F.SilkS"
 				(type "Top Silk Screen")
-			)
-			(layer "F.Paste"
-				(type "Top Solder Paste")
 			)
 			(layer "F.Mask"
 				(type "Top Solder Mask")
@@ -78,9 +76,6 @@
 			(layer "B.Mask"
 				(type "Bottom Solder Mask")
 				(thickness 0.01)
-			)
-			(layer "B.Paste"
-				(type "Bottom Solder Paste")
 			)
 			(layer "B.SilkS"
 				(type "Bottom Silk Screen")
@@ -15536,6 +15531,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15547,6 +15543,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16825,6 +16822,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16836,6 +16834,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21022,6 +21021,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21033,6 +21033,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -24692,6 +24693,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -24703,6 +24705,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27404,7 +27407,6 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(net 112)
 			(uuid "a969512d-77a9-4473-a804-85e23d0ede53")
 		)
 		(fp_poly
@@ -27439,7 +27441,6 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(net 112)
 			(uuid "5481235d-b56a-4ea5-bbb5-5785316acfb4")
 		)
 		(embedded_fonts no)
