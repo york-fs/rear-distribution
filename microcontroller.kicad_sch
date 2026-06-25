@@ -11514,7 +11514,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey #" "490-GQM1875C2E300GB12DCT-ND"
+		(property "DigiKey #" ""
 			(at 254 34.29 90)
 			(effects
 				(font
@@ -14481,6 +14481,51 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey #" "296-25129-1-ND"
+			(at 161.29 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC #" "C130204"
+			(at 161.29 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr" "Texas Instruments"
+			(at 161.29 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr #" "TCA9535PWR"
+			(at 161.29 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser #" "595-TCA9535PWR"
+			(at 161.29 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "18"
 			(uuid "13a2b528-737d-48da-9d92-397da24e1d3c")
 		)
@@ -16994,6 +17039,24 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey #" "900-2125280600-ND"
+			(at 54.61 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser #" "538-212528-0600"
+			(at 54.61 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "8276ec13-4d2c-4c73-a5ce-9dfda2f0daf6")
 		)
@@ -17153,6 +17216,33 @@
 			)
 		)
 		(property "Mfr #" "472192001"
+			(at 236.22 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey #" "WM6698CT-ND"
+			(at 236.22 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC #" "C164170"
+			(at 236.22 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser #" "538-47219-2001"
 			(at 236.22 39.37 0)
 			(effects
 				(font
