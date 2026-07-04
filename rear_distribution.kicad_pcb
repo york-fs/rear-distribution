@@ -3094,7 +3094,7 @@
 		(path "/441bb5a1-b38a-4f03-91d4-c403979ff70d/9919fa04-5a3e-478e-8c29-6c7858ff0412")
 		(sheetname "/Microcontroller/")
 		(sheetfile "microcontroller.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 1.2)
@@ -4923,7 +4923,7 @@
 		(path "/441bb5a1-b38a-4f03-91d4-c403979ff70d/1e8c389b-3cd5-41b0-a514-366b7cfa7dad")
 		(sheetname "/Microcontroller/")
 		(sheetfile "microcontroller.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.4 0)
@@ -5357,7 +5357,7 @@
 		(path "/441bb5a1-b38a-4f03-91d4-c403979ff70d/77dd35ef-cf8d-43d7-a7b0-4956607386f6")
 		(sheetname "/Microcontroller/")
 		(sheetfile "microcontroller.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 1.2)
@@ -36521,7 +36521,7 @@
 		(path "/441bb5a1-b38a-4f03-91d4-c403979ff70d/1cb08379-fe44-441b-9f84-71117d5391ff")
 		(sheetname "/Microcontroller/")
 		(sheetfile "microcontroller.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.4 0)
