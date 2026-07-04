@@ -9869,7 +9869,7 @@
 			)
 		)
 	)
-	(global_label "IMD_INDICATOR_GND"
+	(global_label "GND_IMD_INDICATOR"
 		(shape output)
 		(at 26.67 257.81 0)
 		(fields_autoplaced yes)
@@ -10243,7 +10243,7 @@
 			)
 		)
 	)
-	(global_label "IMD_INDICATOR_GND"
+	(global_label "GND_IMD_INDICATOR"
 		(shape input)
 		(at 96.52 111.76 0)
 		(fields_autoplaced yes)
@@ -10331,7 +10331,7 @@
 			)
 		)
 	)
-	(global_label "BMS_INDICATOR_GND"
+	(global_label "GND_BMS_INDICATOR"
 		(shape output)
 		(at 26.67 255.27 0)
 		(fields_autoplaced yes)
@@ -10529,7 +10529,7 @@
 			)
 		)
 	)
-	(global_label "BMS_INDICATOR_GND"
+	(global_label "GND_BMS_INDICATOR"
 		(shape input)
 		(at 96.52 127 0)
 		(fields_autoplaced yes)
