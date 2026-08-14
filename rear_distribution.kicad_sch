@@ -8580,7 +8580,7 @@
 		(uuid "2c4b5c59-75e8-4a12-b272-08c96da7eb41")
 	)
 	(label "SDN_TSMS_SAMPLE"
-		(at 261.62 207.01 0)
+		(at 261.62 204.47 0)
 		(effects
 			(font
 				(size 1 1)
@@ -8600,7 +8600,7 @@
 		(uuid "36efc84e-bf35-4f6c-83f2-31f107715fae")
 	)
 	(label "SDN_AUX_SAMPLE"
-		(at 261.62 189.23 0)
+		(at 261.62 207.01 0)
 		(effects
 			(font
 				(size 1 1)
@@ -8610,7 +8610,7 @@
 		(uuid "6584712e-3afe-4b78-bf7e-073a57bac70b")
 	)
 	(label "SDN_BSPD_SAMPLE"
-		(at 261.62 204.47 0)
+		(at 261.62 199.39 0)
 		(effects
 			(font
 				(size 1 1)
@@ -8620,7 +8620,7 @@
 		(uuid "66a6f27e-fd0b-47cc-9e58-ea077bfb6f3d")
 	)
 	(label "SDN_RIGHT_ESTOP_SAMPLE"
-		(at 261.62 201.93 0)
+		(at 261.62 194.31 0)
 		(effects
 			(font
 				(size 1 1)
@@ -8660,7 +8660,7 @@
 		(uuid "974a9017-ba68-4183-a27b-ec0ee14b209c")
 	)
 	(label "SDN_HVD_SAMPLE"
-		(at 261.62 199.39 0)
+		(at 261.62 191.77 0)
 		(effects
 			(font
 				(size 1 1)
@@ -8670,7 +8670,7 @@
 		(uuid "9a963303-030b-477b-bed9-2e6ce2b5b7d5")
 	)
 	(label "SDN_LEFT_ESTOP_SAMPLE"
-		(at 261.62 196.85 0)
+		(at 261.62 201.93 0)
 		(effects
 			(font
 				(size 1 1)
@@ -8680,7 +8680,7 @@
 		(uuid "a0313a7f-5a0f-4fef-b968-2982b31ed848")
 	)
 	(label "SDN_FRONT_SAMPLE"
-		(at 261.62 191.77 0)
+		(at 261.62 189.23 0)
 		(effects
 			(font
 				(size 1 1)
@@ -8710,7 +8710,7 @@
 		(uuid "bf788ef6-5304-409f-b585-33742b189877")
 	)
 	(label "SDN_LATCH_SAMPLE"
-		(at 261.62 194.31 0)
+		(at 261.62 196.85 0)
 		(effects
 			(font
 				(size 1 1)
@@ -20456,7 +20456,7 @@
 			)
 		)
 		(pin "SDN_BSPD_SAMPLE" input
-			(at 260.35 204.47 0)
+			(at 260.35 199.39 0)
 			(uuid "51dabe81-8518-46fc-be48-7b9d63833e6c")
 			(effects
 				(font
@@ -20466,7 +20466,7 @@
 			)
 		)
 		(pin "SDN_LATCH_SAMPLE" input
-			(at 260.35 194.31 0)
+			(at 260.35 196.85 0)
 			(uuid "7d81fb46-520c-4280-9742-7edb644724d4")
 			(effects
 				(font
@@ -20476,7 +20476,7 @@
 			)
 		)
 		(pin "SDN_LEFT_ESTOP_SAMPLE" input
-			(at 260.35 196.85 0)
+			(at 260.35 201.93 0)
 			(uuid "f0f93686-42f3-44f5-901c-f0caa9168e43")
 			(effects
 				(font
@@ -20486,7 +20486,7 @@
 			)
 		)
 		(pin "SDN_RIGHT_ESTOP_SAMPLE" input
-			(at 260.35 201.93 0)
+			(at 260.35 194.31 0)
 			(uuid "757253a2-e483-4851-84d6-3f1b0bb43509")
 			(effects
 				(font
@@ -20496,7 +20496,7 @@
 			)
 		)
 		(pin "SDN_AUX_SAMPLE" input
-			(at 260.35 189.23 0)
+			(at 260.35 207.01 0)
 			(uuid "ef7cad96-b799-4b06-8aec-9600d7e477a0")
 			(effects
 				(font
@@ -20506,7 +20506,7 @@
 			)
 		)
 		(pin "SDN_HVD_SAMPLE" input
-			(at 260.35 199.39 0)
+			(at 260.35 191.77 0)
 			(uuid "e0dbb3ce-b609-49d3-b54d-1a6e9282bb96")
 			(effects
 				(font
@@ -20516,7 +20516,7 @@
 			)
 		)
 		(pin "SDN_TSMS_SAMPLE" input
-			(at 260.35 207.01 0)
+			(at 260.35 204.47 0)
 			(uuid "2cdee4f8-0dcb-46c4-bb40-b1cfa91505a4")
 			(effects
 				(font
@@ -20526,7 +20526,7 @@
 			)
 		)
 		(pin "SDN_FRONT_SAMPLE" input
-			(at 260.35 191.77 0)
+			(at 260.35 189.23 0)
 			(uuid "3507c2ae-97ba-479e-a717-3e369a470d1d")
 			(effects
 				(font

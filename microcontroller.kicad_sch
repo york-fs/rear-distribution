@@ -9314,17 +9314,6 @@
 			)
 		)
 	)
-	(hierarchical_label "SDN_BSPD_SAMPLE"
-		(shape input)
-		(at 142.24 50.8 180)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify right)
-		)
-		(uuid "0832afc2-f8b1-45de-b78e-8e7c6b446e5d")
-	)
 	(hierarchical_label "12V_LATCH_SAMPLE"
 		(shape input)
 		(at 105.41 133.35 0)
@@ -9347,6 +9336,28 @@
 		)
 		(uuid "1597fe16-d907-4bda-91e3-3cc327f35c27")
 	)
+	(hierarchical_label "SDN_BSPD_SAMPLE"
+		(shape input)
+		(at 142.24 55.88 180)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right)
+		)
+		(uuid "16445528-4f6f-4898-b65f-5da9a2ccc42d")
+	)
+	(hierarchical_label "SDN_AUX_SAMPLE"
+		(shape input)
+		(at 142.24 48.26 180)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right)
+		)
+		(uuid "2b753461-6cd6-4ab8-9aea-caba694c14e9")
+	)
 	(hierarchical_label "DTI_OK_SAMPLE"
 		(shape input)
 		(at 67.31 151.13 180)
@@ -9358,17 +9369,6 @@
 		)
 		(uuid "32546865-2e74-4c7e-88a4-f8b43b556bad")
 	)
-	(hierarchical_label "SDN_AUX_SAMPLE"
-		(shape input)
-		(at 142.24 45.72 180)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify right)
-		)
-		(uuid "4327a023-87f2-41cb-bbe8-7c13c5e9b9af")
-	)
 	(hierarchical_label "12V_TSAL_LED_SAMPLE"
 		(shape input)
 		(at 105.41 128.27 0)
@@ -9379,17 +9379,6 @@
 			(justify left)
 		)
 		(uuid "4a77ac84-2427-4212-ba9e-41a4d759b07a")
-	)
-	(hierarchical_label "SDN_LEFT_ESTOP_SAMPLE"
-		(shape input)
-		(at 142.24 38.1 180)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify right)
-		)
-		(uuid "4ba934d9-b633-43ff-9724-0b7f4094dec9")
 	)
 	(hierarchical_label "BMS_OK_SAMPLE"
 		(shape input)
@@ -9446,6 +9435,28 @@
 		)
 		(uuid "6c10d4b8-9df1-41e3-9c53-f4399d1c0aae")
 	)
+	(hierarchical_label "SDN_LEFT_ESTOP_SAMPLE"
+		(shape input)
+		(at 142.24 53.34 180)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right)
+		)
+		(uuid "6f760d75-42c9-4f70-8853-15ab83216ab9")
+	)
+	(hierarchical_label "SDN_FRONT_SAMPLE"
+		(shape input)
+		(at 142.24 45.72 180)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right)
+		)
+		(uuid "963c3db5-e4a0-452c-8740-7dc5b7dafe4f")
+	)
 	(hierarchical_label "12V_DTI_SAMPLE"
 		(shape input)
 		(at 105.41 130.81 0)
@@ -9456,17 +9467,6 @@
 			(justify left)
 		)
 		(uuid "998a28b8-58f9-4fa7-80dc-c98476217b6a")
-	)
-	(hierarchical_label "SDN_RIGHT_ESTOP_SAMPLE"
-		(shape input)
-		(at 142.24 53.34 180)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify right)
-		)
-		(uuid "9fa9788a-cdf9-465d-a97d-bf56de9cf6df")
 	)
 	(hierarchical_label "12V_ENERGY_METER_SAMPLE"
 		(shape input)
@@ -9479,16 +9479,16 @@
 		)
 		(uuid "affdf209-5c59-499f-948c-589c882f34d2")
 	)
-	(hierarchical_label "SDN_FRONT_SAMPLE"
+	(hierarchical_label "SDN_TSMS_SAMPLE"
 		(shape input)
-		(at 142.24 43.18 180)
+		(at 142.24 50.8 180)
 		(effects
 			(font
 				(size 1 1)
 			)
 			(justify right)
 		)
-		(uuid "b5391880-2159-4e11-9c1a-5b09bd3f9d24")
+		(uuid "b03d6747-ca4f-4738-b0cd-173bc499c4ea")
 	)
 	(hierarchical_label "12V_FAN_SAMPLE"
 		(shape input)
@@ -9503,25 +9503,14 @@
 	)
 	(hierarchical_label "SDN_HVD_SAMPLE"
 		(shape input)
-		(at 142.24 55.88 180)
+		(at 142.24 43.18 180)
 		(effects
 			(font
 				(size 1 1)
 			)
 			(justify right)
 		)
-		(uuid "c1474dd3-48de-4fc6-ad18-d94ca5215cc5")
-	)
-	(hierarchical_label "SDN_TSMS_SAMPLE"
-		(shape input)
-		(at 142.24 48.26 180)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify right)
-		)
-		(uuid "c4b1f9a3-7f75-4a70-a76a-ec5a36183962")
+		(uuid "b9d17c6d-046d-4da9-b02c-f1eee2a3654b")
 	)
 	(hierarchical_label "12V_IMD_SAMPLE"
 		(shape input)
@@ -9556,7 +9545,7 @@
 		)
 		(uuid "dd4ca4e3-ff9f-4e86-a727-e4f743e749ac")
 	)
-	(hierarchical_label "SDN_LATCH_SAMPLE"
+	(hierarchical_label "SDN_RIGHT_ESTOP_SAMPLE"
 		(shape input)
 		(at 142.24 40.64 180)
 		(effects
@@ -9565,7 +9554,18 @@
 			)
 			(justify right)
 		)
-		(uuid "f7da6d3e-49bf-4d7a-af84-ab7ba95c6c23")
+		(uuid "e468dfe8-83ca-4c3c-8631-dfea94072310")
+	)
+	(hierarchical_label "SDN_LATCH_SAMPLE"
+		(shape input)
+		(at 142.24 38.1 180)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right)
+		)
+		(uuid "e9be16c0-f9e8-4fe9-929e-f226667084f5")
 	)
 	(hierarchical_label "12V_PRCHG_SAMPLE"
 		(shape input)
